@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866448103051",
+    "project_id": "shoppingapp-bcdb4",
+    "storage_bucket": "shoppingapp-bcdb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866448103051:android:32991056ec2b373f7ea68e",
+        "android_client_info": {
+          "package_name": "com.example.netshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866448103051-s0f23gggqvutqlj50mr1kp5fs8lvb83h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9raSsK5NW_U-wG5HnULPVv0tXMRwvKPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866448103051-s0f23gggqvutqlj50mr1kp5fs8lvb83h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
